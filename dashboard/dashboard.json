@@ -1,0 +1,263 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1",
+      "creationTime": 1545398187012,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "046e044c-d1ae-4d6a-be25-876abc24180d",
+      "importAttempts": 0,
+      "importComplete": true,
+      "isDefault": false,
+      "locked": false,
+      "name": "APP00",
+      "rank": 184,
+      "shared": false,
+      "temporary": false,
+      "userId": "af67c3eb-b10e-4a1a-8b0a-436cfd8d710e",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+            "widgetIdReceiver": "b16c19f4-2f4d-443f-b103-3da2d2b00784"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+            "widgetIdReceiver": "d1ec9cba-1ca1-4c0a-9120-b3efa6749584"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+            "widgetIdReceiver": "5974a7be-754a-4208-a8d1-628a04196c36"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+            "widgetIdReceiver": "5373db06-b1a0-4305-9070-b598b1d31388"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [],
+               "mode": 0,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "selectFirstRow": {"selectFirstRow": false},
+               "tagFilter": {
+                  "path": ["/source/kind/kind:resourceKind:id:0_::_"],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": ["resourceKind:id:0_::_"],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [],
+                     "tier": []
+                  }
+               },
+               "title": "Object List"
+            },
+            "gridsterCoords": {
+               "h": 14,
+               "w": 4,
+               "x": 1,
+               "y": 1
+            },
+            "height": 780,
+            "id": "b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+            "states": [{
+               "key": "permResGrid_widget_046e044c-d1ae-4d6a-be25-876abc24180d_b5c8c7d8-beac-44eb-974f-bf6771eeefff",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%255Eo%25253Aid%25253Ds%2525253Ah5%255Eo%25253Aid%25253Ds%2525253Ah6%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%255Eo%25253Aid%25253Ds%2525253Ah15%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah17%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+            }],
+            "title": "Object List",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "badge": [
+                  {
+                     "badgeKey": "health",
+                     "badgeName": "Health",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "risk",
+                     "badgeName": "Risk",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "efficiency",
+                     "badgeName": "Efficiency",
+                     "label": null,
+                     "show": true
+                  }
+               ],
+               "custom": [],
+               "mode": "resource",
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "selfProvider": {"selfProvider": false},
+               "title": "Environment Overview"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 9,
+               "y": 1
+            },
+            "height": 381,
+            "id": "b16c19f4-2f4d-443f-b103-3da2d2b00784",
+            "states": [{
+               "key": "permSkittlesView_widget_046e044c-d1ae-4d6a-be25-876abc24180d_b16c19f4-2f4d-443f-b103-3da2d2b00784",
+               "value": "o%3A"
+            }],
+            "title": "Environment Overview",
+            "type": "Skittles"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "custom": [{
+                  "lightWeightRelationships": [
+                     {
+                        "id": "extModel8482-1",
+                        "key": "widget.topologyGraph.parent",
+                        "lineStyle": "solid",
+                        "name": "",
+                        "propKeyPrefix": "",
+                        "relationship": "~child",
+                        "subType": "",
+                        "type": "~child"
+                     },
+                     {
+                        "id": "extModel8482-2",
+                        "key": "widget.topologyGraph.child",
+                        "lineStyle": "solid",
+                        "name": "",
+                        "propKeyPrefix": "",
+                        "relationship": "child",
+                        "subType": "",
+                        "type": "child"
+                     },
+                     {
+                        "id": "extModel8482-3",
+                        "key": "widget.topologyGraph.connectedTo.LWSERVICE",
+                        "lineStyle": "solid",
+                        "name": "",
+                        "propKeyPrefix": "relation",
+                        "relationship": "connectedTo",
+                        "subType": "LWSERVICE",
+                        "type": "connectedTo.LWSERVICE"
+                     }
+                  ],
+                  "selectedConfigFile": "defaultTopologyGraphConfig.xml",
+                  "selectedLayoutType": "force",
+                  "travSpecs": []
+               }],
+               "depth": 1,
+               "filterMode": {"leafExpand": true},
+               "mode": "node",
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "resInteractionMode": null,
+               "resource": {"resourceName": ""},
+               "resources": [
+                  {"resourceName": ""},
+                  {"resourceName": ""}
+               ],
+               "selfProvider": {"selfProvider": false},
+               "title": "Topology Graph",
+               "treeType": {"treeType": false}
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 5,
+               "y": 1
+            },
+            "height": 381,
+            "id": "d1ec9cba-1ca1-4c0a-9120-b3efa6749584",
+            "states": [
+               {
+                  "key": "permNewlyConfigured_widget_046e044c-d1ae-4d6a-be25-876abc24180d_d1ec9cba-1ca1-4c0a-9120-b3efa6749584",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permGraphData_widget_046e044c-d1ae-4d6a-be25-876abc24180d_d1ec9cba-1ca1-4c0a-9120-b3efa6749584",
+                  "value": "s%3A%7B%22nodesMap%22%3A%7B%7D%2C%22linksMap%22%3A%7B%7D%2C%22relationshipMap%22%3A%7B%7D%2C%22expandedNodesMap%22%3A%7B%7D%2C%22layout%22%3A%7B%22zoom%22%3A0.8322803759041336%2C%22x%22%3A129.61952234199657%2C%22y%22%3A-167.24319637341102%7D%2C%22links%22%3A%5B%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%228741dad4-f372-4db9-a1a2-5d8ec7cf64ae%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%22820ffcf2-7ffb-4b9b-9d0a-4cdbdd02b0a0%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%22a52cea58-d1b6-4ec3-bd4b-310c547f440b%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%22f5d76ae2-3a0b-4ade-b6ec-d1cd2f7275c7%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%223baff2f9-9c72-4e38-b3ca-dd6003a4294f%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%2283160b7c-33d5-47a7-adf8-2277df4f8107%22%2C%22lineStyle%22%3A%22solid%22%7D%5D%2C%22nodes%22%3A%5B%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A0%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%22a52cea58-d1b6-4ec3-bd4b-310c547f440b%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG60%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A144.84808789987147%2C%22y%22%3A243.2389539182638%2C%22px%22%3A144.8962294488942%2C%22py%22%3A243.7456233374402%2C%22x0%22%3A143.11070678601305%2C%22y0%22%3A247.65087695175092%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_a52cea58-d1b6-4ec3-bd4b-310c547f440b_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/custom/Container_Environment.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A0%2C%22index%22%3A1%2C%22resknd%22%3A%22Environment%22%2C%22uuid%22%3A%2286d7e44f-af0d-4582-b799-aae85a963652%22%2C%22resKndId%22%3A%22002009ContainerEnvironment%22%2C%22reskndKey%22%3A%22Environment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22TOTVS%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22x%22%3A201.25464862488295%2C%22y%22%3A406.0827681463145%2C%22radius%22%3A33%2C%22weight%22%3A6%2C%22px%22%3A201.18198467506005%2C%22py%22%3A406.2627167573041%2C%22x0%22%3A199.56833090767196%2C%22y0%22%3A410.24570809711753%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_86d7e44f-af0d-4582-b799-aae85a963652_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A2%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%22f5d76ae2-3a0b-4ade-b6ec-d1cd2f7275c7%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG09%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A87.75246219586919%2C%22y%22%3A539.136296504737%2C%22px%22%3A87.94538979673545%2C%22py%22%3A538.9999809591284%2C%22x0%22%3A86.10170652591427%2C%22y0%22%3A543.187428192905%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_f5d76ae2-3a0b-4ade-b6ec-d1cd2f7275c7_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A3%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%22820ffcf2-7ffb-4b9b-9d0a-4cdbdd02b0a0%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG264%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A311.75181837940977%2C%22y%22%3A270.33494479300873%2C%22px%22%3A311.4167020139573%2C%22py%22%3A270.8339645951334%2C%22x0%22%3A310.97865008590725%2C%22y0%22%3A272.18957077934067%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_820ffcf2-7ffb-4b9b-9d0a-4cdbdd02b0a0_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A4%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%2283160b7c-33d5-47a7-adf8-2277df4f8107%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG267%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A262.44568003421494%2C%22y%22%3A567.1687070987406%2C%22px%22%3A262.25265252710494%2C%22py%22%3A567.0234818644899%2C%22x0%22%3A261.0990848489082%2C%22y0%22%3A570.7009209318549%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_83160b7c-33d5-47a7-adf8-2277df4f8107_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A5%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%228741dad4-f372-4db9-a1a2-5d8ec7cf64ae%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG266%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A371.1866092641534%2C%22y%22%3A434.8306237543496%2C%22px%22%3A370.7705671702443%2C%22py%22%3A434.9550794906119%2C%22x0%22%3A369.4354836237752%2C%22y0%22%3A439.38299750655244%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_8741dad4-f372-4db9-a1a2-5d8ec7cf64ae_1546429789249%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/VMWARE_VirtualMachine.png%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A6%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%223baff2f9-9c72-4e38-b3ca-dd6003a4294f%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22ARMG265%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A31.034763494209415%2C%22y%22%3A379.2761699697926%2C%22px%22%3A31.303817258926937%2C%22py%22%3A379.51833253721395%2C%22x0%22%3A29.410923344020784%2C%22y0%22%3A383.1854823039382%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_3baff2f9-9c72-4e38-b3ca-dd6003a4294f_1546429789249%22%2C%22fixed%22%3Atrue%7D%5D%2C%22removedNodesMap%22%3A%7B%7D%7D"
+               }
+            ],
+            "title": "Topology Graph",
+            "type": "TopologyGraph"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "badgeMode": {"badgeMode": false},
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "selfProvider": {"selfProvider": false},
+               "title": "Efficiency"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 9,
+               "y": 8
+            },
+            "height": 381,
+            "id": "5974a7be-754a-4208-a8d1-628a04196c36",
+            "title": "Efficiency",
+            "type": "IntSummaryEfficiency"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "resourceName": "",
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "Object Relationship (Advanced)"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 5,
+               "y": 8
+            },
+            "height": 381,
+            "id": "5373db06-b1a0-4305-9070-b598b1d31388",
+            "states": [{
+               "key": "permResourceRelationship_widget_046e044c-d1ae-4d6a-be25-876abc24180d_5373db06-b1a0-4305-9070-b598b1d31388",
+               "value": "o%3A"
+            }],
+            "title": "Object Relationship (Advanced)",
+            "type": "ResourceRelationshipAdvanced"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [{
+      "adapterKindKey": "Container",
+      "internalId": "resourceKind:id:0_::_",
+      "resourceKindKey": "Environment"
+   }]},
+   "uuid": "d1b535ea-7572-4252-bbba-141831f25cf3"
+}
